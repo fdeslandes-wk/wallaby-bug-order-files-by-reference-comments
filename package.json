@@ -1,0 +1,15 @@
+{
+  "name": "wallaby-bug",
+  "version": "1.0.0",
+  "description": "Small project to reproduce wallaby bug with typescript orderFilesByReferenceComments",
+  "main": "wallaby.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.23.1",
+    "babel-preset-es2015": "^6.22.0"
+  }
+}
